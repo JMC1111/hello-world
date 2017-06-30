@@ -1,3 +1,2 @@
 # hello-world
-First repository
-Just another comp sci studdent
+Just another comp sci studdent.  UF '21
