@@ -1,2 +1,2 @@
 # hello-world
-Just another comp sci studdent.  UF '21
+Just another comp sci student.  UF '21
